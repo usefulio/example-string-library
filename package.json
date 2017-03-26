@@ -1,0 +1,19 @@
+{
+  "name": "example-string-library",
+  "version": "1.0.0",
+  "description": "examples for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usefulio/example-string-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usefulio/example-string-library/issues"
+  },
+  "homepage": "https://github.com/usefulio/example-string-library#readme"
+}
